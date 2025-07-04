@@ -1,0 +1,6 @@
+wwwroot\css\styles.css
+wwwroot\index.html
+wwwroot\js\chat.js
+C:\Users\PCLocalOne\Documents\ProjectsMicro\SlnProject\src\ChatService\wwwroot\css\styles.css
+C:\Users\PCLocalOne\Documents\ProjectsMicro\SlnProject\src\ChatService\wwwroot\index.html
+C:\Users\PCLocalOne\Documents\ProjectsMicro\SlnProject\src\ChatService\wwwroot\js\chat.js

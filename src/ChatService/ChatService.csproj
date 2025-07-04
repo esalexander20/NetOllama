@@ -1,0 +1,124 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ClientApp\**" />
+    <Compile Remove="obj\**" />
+    <Content Remove="ClientApp\**" />
+    <Content Remove="obj\**" />
+    <EmbeddedResource Remove="ClientApp\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="ClientApp\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net9.0\appsettings.Development.json" />
+    <Content Include="bin\Debug\net9.0\appsettings.json" />
+    <Content Include="bin\Debug\net9.0\ChatService.deps.json" />
+    <Content Include="bin\Debug\net9.0\ChatService.runtimeconfig.json" />
+    <Content Include="bin\Debug\net9.0\ChatService.staticwebassets.endpoints.json" />
+    <Content Include="bin\Debug\net9.0\ChatService.staticwebassets.runtime.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net9.0\Aspire.Hosting.dll" />
+    <None Include="bin\Debug\net9.0\ChatService.dll" />
+    <None Include="bin\Debug\net9.0\ChatService.exe" />
+    <None Include="bin\Debug\net9.0\ChatService.pdb" />
+    <None Include="bin\Debug\net9.0\CommunityToolkit.Aspire.Hosting.Ollama.dll" />
+    <None Include="bin\Debug\net9.0\cs\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\cs\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\cs\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\cs\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\de\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\de\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\de\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\de\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\es\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\es\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\es\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\es\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\Fractions.dll" />
+    <None Include="bin\Debug\net9.0\fr\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\fr\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\fr\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\fr\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\Google.Protobuf.dll" />
+    <None Include="bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll" />
+    <None Include="bin\Debug\net9.0\Grpc.AspNetCore.Server.dll" />
+    <None Include="bin\Debug\net9.0\Grpc.Core.Api.dll" />
+    <None Include="bin\Debug\net9.0\Grpc.Net.Client.dll" />
+    <None Include="bin\Debug\net9.0\Grpc.Net.ClientFactory.dll" />
+    <None Include="bin\Debug\net9.0\Grpc.Net.Common.dll" />
+    <None Include="bin\Debug\net9.0\HealthChecks.Uris.dll" />
+    <None Include="bin\Debug\net9.0\Humanizer.dll" />
+    <None Include="bin\Debug\net9.0\it\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\it\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\it\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\it\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\ja\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\ja\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\ja\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\ja\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\Json.More.dll" />
+    <None Include="bin\Debug\net9.0\JsonPatch.Net.dll" />
+    <None Include="bin\Debug\net9.0\JsonPointer.Net.dll" />
+    <None Include="bin\Debug\net9.0\ko\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\ko\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\ko\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\ko\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\KubernetesClient.dll" />
+    <None Include="bin\Debug\net9.0\MessagePack.Annotations.dll" />
+    <None Include="bin\Debug\net9.0\MessagePack.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.Extensions.AI.Abstractions.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.NET.StringTools.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.OpenApi.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.VisualStudio.Threading.dll" />
+    <None Include="bin\Debug\net9.0\Microsoft.VisualStudio.Validation.dll" />
+    <None Include="bin\Debug\net9.0\Nerdbank.Streams.dll" />
+    <None Include="bin\Debug\net9.0\Newtonsoft.Json.dll" />
+    <None Include="bin\Debug\net9.0\OllamaSharp.dll" />
+    <None Include="bin\Debug\net9.0\pl\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\pl\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\pl\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\pl\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\Polly.Core.dll" />
+    <None Include="bin\Debug\net9.0\pt-BR\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\pt-BR\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\ru\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\ru\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\ru\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\ru\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\StreamJsonRpc.dll" />
+    <None Include="bin\Debug\net9.0\System.IO.Hashing.dll" />
+    <None Include="bin\Debug\net9.0\tr\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\tr\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\tr\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\tr\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\YamlDotNet.dll" />
+    <None Include="bin\Debug\net9.0\zh-Hans\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\zh-Hans\StreamJsonRpc.resources.dll" />
+    <None Include="bin\Debug\net9.0\zh-Hant\Aspire.Hosting.resources.dll" />
+    <None Include="bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll" />
+    <None Include="bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll" />
+    <None Include="bin\Debug\net9.0\zh-Hant\StreamJsonRpc.resources.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Aspire.Hosting.Ollama" Version="9.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.6" />
+  </ItemGroup>
+
+</Project>

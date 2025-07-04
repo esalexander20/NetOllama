@@ -1,0 +1,17 @@
+@ChatService_HostAddress = http://localhost:5018
+
+### Health Check
+GET {{ChatService_HostAddress}}/api/chat/health
+Accept: application/json
+
+### Send Chat Message
+POST {{ChatService_HostAddress}}/api/chat
+Content-Type: application/json
+
+{
+    "model": "mistral:latest",
+    "prompt": "Hello, how are you?",
+    "stream": false
+}
+
+###

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|c:\\users\\pclocalone\\documents\\projectsmicro\\slnproject\\src\\chatservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|solutionrelative:src\\chatservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|c:\\users\\pclocalone\\documents\\projectsmicro\\slnproject\\src\\chatservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|solutionrelative:src\\chatservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|c:\\users\\pclocalone\\documents\\projectsmicro\\slnproject\\src\\chatservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|solutionrelative:src\\chatservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|c:\\users\\pclocalone\\documents\\projectsmicro\\slnproject\\src\\chatservice\\chatservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|solutionrelative:src\\chatservice\\chatservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|c:\\users\\pclocalone\\documents\\projectsmicro\\slnproject\\src\\chatservice\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|solutionrelative:src\\chatservice\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|c:\\users\\pclocalone\\documents\\projectsmicro\\slnproject\\src\\chatservice\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|solutionrelative:src\\chatservice\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|c:\\users\\pclocalone\\documents\\projectsmicro\\slnproject\\src\\chatservice\\services\\ollamachatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B84E02-D0F1-404D-B2D5-678F2F8CEB57}|src\\ChatService\\ChatService.csproj|solutionrelative:src\\chatservice\\services\\ollamachatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ChatService\\appsettings.json",
+              "ToolTip": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\appsettings.json",
+              "RelativeToolTip": "src\\ChatService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T19:58:37.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ChatService\\Program.cs",
+              "ToolTip": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Program.cs",
+              "RelativeToolTip": "src\\ChatService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:55:06.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatService.http",
+              "DocumentMoniker": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\ChatService.http",
+              "RelativeDocumentMoniker": "src\\ChatService\\ChatService.http",
+              "ToolTip": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\ChatService.http",
+              "RelativeToolTip": "src\\ChatService\\ChatService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-03T16:37:20.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OllamaChatService.cs",
+              "DocumentMoniker": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Services\\OllamaChatService.cs",
+              "RelativeDocumentMoniker": "src\\ChatService\\Services\\OllamaChatService.cs",
+              "ToolTip": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Services\\OllamaChatService.cs",
+              "RelativeToolTip": "src\\ChatService\\Services\\OllamaChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:37:04.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Models\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "src\\ChatService\\Models\\ChatRequest.cs",
+              "ToolTip": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Models\\ChatRequest.cs",
+              "RelativeToolTip": "src\\ChatService\\Models\\ChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:36:38.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "src\\ChatService\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "src\\ChatService\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:36:20.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\ChatService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PCLocalOne\\Documents\\ProjectsMicro\\SlnProject\\src\\ChatService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\ChatService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T16:34:35.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
